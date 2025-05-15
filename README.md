@@ -110,4 +110,4 @@ To enable CampaignHQ to manage WhatsApp message templates through their platform
 - Admin access to your **Meta Business Account**
 - Admin access to your **Meta Developer Account**
 
-A representative from CampaignHQ will assist and guide you through this setup.
+A representative from CampaignHQ will assist and guide you through this setup. You can schedule the call here - [Schedule Call](https://www.campaignhq.co/schedule-demo/)
