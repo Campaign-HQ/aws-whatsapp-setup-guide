@@ -96,6 +96,8 @@ This document outlines the steps required to set up a WhatsApp phone number and 
    - Choose **Amazon SNS** as destination type.
    - Paste the **Topic ARN**.
    - Save the changes.
+  
+![Event Destination Setup](https://drive.google.com/uc?export=view&id=1JZuzCLAiQA_YRAXSrqtWzwtazPa4oZXT)
 
 ---
 
