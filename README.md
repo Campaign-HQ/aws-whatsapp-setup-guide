@@ -85,7 +85,7 @@ This document outlines the steps required to set up a WhatsApp phone number and 
 2. Go to the **Subscriptions** tab → Click **Create subscription**.
 3. Use the following values:
    - **Protocol**: HTTPS  
-   - **Endpoint**: `https://api.campaignhq.co/api/webhooks/ses`
+   - **Endpoint**: `https://api.campaignhq.co/api/webhooks/aws_whatsapp`
 
 ### C. Connect the SNS Topic in AWS Social Messaging
 
