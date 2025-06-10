@@ -42,7 +42,7 @@ This document outlines the steps required to set up a WhatsApp phone number and 
     {
       "Sid": "CampaignHQ",
       "Effect": "Allow",
-      "Action": "social-messaging:SendWhatsAppMessage",
+      "Action": ["social-messaging:SendWhatsAppMessage", "social-messaging:ListLinkedWhatsAppBusinessAccounts"],
       "Resource": "arn:aws:social-messaging:*:{{aws_account_id}}:phone-number-id/*"
     }
   ]
